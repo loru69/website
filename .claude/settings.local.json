@@ -5,7 +5,16 @@
       "Bash(git init *)",
       "Bash(git remote *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git config *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(git -C \"C:\\\\Users\\\\LOLGE\\\\Downloads\\\\haul-wave-main\\\\haul-wave-main\" push https://loru69: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@github.com/loru69/website.git main)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(git -C \"C:\\\\Users\\\\LOLGE\\\\Downloads\\\\haul-wave-main\\\\haul-wave-main\" add -A)",
+      "Bash(git -C \"C:\\\\Users\\\\LOLGE\\\\Downloads\\\\haul-wave-main\\\\haul-wave-main\" commit -m \"Add auto-push hook config\")",
+      "Bash(git -C \"C:\\\\Users\\\\LOLGE\\\\Downloads\\\\haul-wave-main\\\\haul-wave-main\" push)"
     ]
   }
 }
