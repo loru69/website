@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\Users\\\\LOLGE\\\\Downloads\\\\haul-wave-main\\\\haul-wave-main\" remote -v)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

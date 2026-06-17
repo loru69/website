@@ -1,0 +1,34 @@
+# Horizon Haulers
+
+> Horizon Haulers provides premium back-office support for trucking companies — dispatching, DOT compliance, safety audits, and admin tools so owner-operators can focus on the road.
+
+## Pages
+
+- [/](/): Home — learn about our services, tools, and why fleets choose Horizon Haulers.
+- [/privacy](/privacy): Privacy Policy — how we collect, use, and protect your data.
+- [/terms](/terms): Terms of Service — terms and conditions for using our platform.
+- [/sitemap.xml](/sitemap.xml): Sitemap — list of all pages for search engines.
+
+## Services
+
+- **Dispatching**: 24/7 load booking, rate negotiation, and route optimization.
+- **Back Office**: Invoicing, factoring, IFTA reporting, and document management.
+- **DOT Compliance**: Authority setup, insurance filings, and compliance monitoring.
+- **Safety Audits**: Driver qualification files and safety performance tracking.
+
+## Tools
+
+- **Deadhead Calculator**: Estimate empty-mile costs and find backhaul loads.
+- **Cost Per Mile**: Calculate true operating costs per mile for your fleet.
+- **IFTA Estimator**: Simplify fuel tax reporting across jurisdictions.
+- **Invoice Generator**: Create professional freight invoices instantly.
+
+## Contact
+
+- Phone: [(307) 443-6094](tel:3074436094)
+- Email: info@horizonhaulers.org
+- Address: Gillette, WY — serving owner-operators and fleets nationwide.
+
+## Domain
+
+- Primary: https://horizonhaulers.org
